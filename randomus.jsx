@@ -20,7 +20,7 @@ var __attr = {
         width: 120,
         height: 25,
         panelMargins: [10, 20, 10, 20]
-    },
+    };
     isCompound = false,
     isUndo = true,
     undoCount = 0,
